@@ -1,24 +1,32 @@
-# music-shop
+## Описание проекта
 
-## Project setup
-```
-npm install
-```
+Проект создан с использование фреймфорка Vue JS 3 и представялет онлайн магазин на тему "музыкальное оборудование".
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+На текущий момент реализованы следующие страницы:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+ - Главная страница
+ - Каталог товаров
+ - Карточка товара
+ - Корзина
+ - Страница "О нас"
+ - Профиль
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Установка
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Установите зависимости:
+   ```bash
+   npm install
+   ```
+
+2. Запустите проект:
+   ```bash
+   npm run serve
+   ```
+
+## Скрипты
+
+- `npm run serve` - запуск сервера разработки
+- `npm run build` - сборка проекта
+
+## Автор
+Денис Козлов
